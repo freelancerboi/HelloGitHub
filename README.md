@@ -1,2 +1,2 @@
 # HelloGitHub
-My first super repository
+This is gonna be **Legen** ...wait for it... **Dary**
