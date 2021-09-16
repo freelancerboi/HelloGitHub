@@ -8,3 +8,5 @@ This is a new feature branch
 This is teach_branch
 
 I am teaching all of you about branches.
+
+I made changes from the Git
